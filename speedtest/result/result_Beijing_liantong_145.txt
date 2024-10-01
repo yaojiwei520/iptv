@@ -1,3 +1,4 @@
-30738  yfaqkkms.zzmd.fun:8888
-1380k  123.113.149.45:3568
-1110k  sweetown.fun:4000
+1148k  221.221.165.219:8888
+948k  sweetown.fun:4000
+710k  123.113.254.161:8012
+692k  coolcat.synology.me:4022
